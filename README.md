@@ -77,3 +77,7 @@
 | 73 | Word Search II | Tree | Hard | [Link](https://leetcode.com/problems/word-search-ii/) |
 | 74 | Top K Frequent Elements | Heap | Medium | [Link](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 75 | Find Median from Data Stream | Heap | Hard | [Link](https://leetcode.com/problems/find-median-from-data-stream/) |
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE).
